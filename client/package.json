@@ -15,7 +15,7 @@
     "customize-cra": "^0.9.1",
     "dat": "^13.13.1",
     "latest-version": "^5.1.0",
-    "mathjs": "^6.6.0",
+    "mathjs": "^7.5.1",
     "plotly.js": "^1.52.2",
     "plotly.js-basic-dist-min": "^1.52.2",
     "react": "^16.12.0",
